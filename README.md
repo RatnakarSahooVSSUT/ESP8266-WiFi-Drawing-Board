@@ -130,16 +130,6 @@ Phone / Laptop
 
 ---
 
-## 📸 Demonstration
-
-Add project images, screenshots, or GIFs here.
-
-```markdown
-![Demo](images/demo.gif)
-```
-
----
-
 ## 📚 Libraries Used
 
 ```cpp
