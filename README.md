@@ -47,25 +47,6 @@ The project allows users to connect to the ESP8266 through a web browser, draw s
 
 ---
 
-## 📂 Repository Structure
-
-```text
-ESP8266-WiFi-Drawing-Board/
-│
-├── ESP8266_WiFi_Drawing_Board.ino
-├── README.md
-│
-├── images/
-│   ├── setup.jpg
-│   ├── output.jpg
-│   └── demo.gif
-│
-└── docs/
-    └── circuit_diagram.png
-```
-
----
-
 ## 🔌 Hardware Connections
 
 | TFT Display | ESP8266 NodeMCU |
